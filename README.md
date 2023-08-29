@@ -1,5 +1,7 @@
 # Tflite Model Maker Workaround 2023
-[![Colab Link](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wwfish/tflite-model-maker/blob/main/Tflite_Model_Maker_Python_3_9.ipynb)
+[![Colab Link](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TLopert/tflite-model-maker-workaround/blob/main/Tflite_Model_Maker_Python_3_9.ipynb)
+
+
 
 Process for training Tflite Model Maker (EfficientDet) in Google Colab in June/July 2023 with tflite-model-maker not currently being compatible with current version of Colab. This example is based upon the Android Figurine Colab workbook published [here.](https://colab.research.google.com/github/khanhlvg/tflite_raspberry_pi/blob/main/object_detection/Train_custom_model_tutorial.ipynb)
 
